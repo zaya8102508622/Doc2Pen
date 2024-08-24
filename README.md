@@ -1,8 +1,11 @@
 <h1 align="center"><b>Doc2Pen</b></h1>
 <h3 align="center">✍️ Paper Assignments: A Medieval Torture Method?</h3>
 <br>
-Ever feel like writing assignments on paper is just a medieval torture method disguised as homework? Oh, the wrist cramps and ink smudges... 😩 But fear not! This project is here to save your hands and sanity. 💻✨
-<br>
-   <align="centre> Imagine trying to write code on paper—your pencil would need a lifetime supply of erasers! 📝✏️
-<br>
-Text editors are like magical portals where your ideas materialize instantly. Plus, you don’t have to worry about smudges or running out of paper. It’s all about that *ctrl+z*  life! 😄💻
+<h2>📜 From Medieval Manuscripts to Modern Marvels!</h2>
+
+<p>Ever feel like writing assignments on paper is just a medieval torture method disguised as homework? 🏰✍️ Oh, the wrist cramps and ink smudges! But don’t worry, this project is here to rescue your hands and sanity. 💻✨</p>
+
+<p>Imagine trying to code with a quill—your pencil would need a lifetime supply of erasers! 📝✏️ With our text editor, your ideas come to life in a flash. No more smudges, no more paper cuts—just pure, unadulterated <strong>ctrl+z</strong> magic! 🚀😄</p>
+
+<p>Welcome to the future of productivity—where your creativity flows as smoothly as your keystrokes! 🌟💻</p>
+
