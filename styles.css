@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.output {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.5em;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    text-align: left;
+    overflow: auto;
+    max-height: 400px;
+}
+
+.container {
+    max-width: 800px;
+}
