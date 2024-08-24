@@ -17,4 +17,7 @@
 
 <h2> ABOUT </h2>
 <p><strong>DOC2PEN:</strong> Turning your typed text into handwritten wonders—because your documents deserve a personal touch!</p>
+<h5>🖋️ DOC2PEN: Your Typed Text, Handwritten Style!</h5>
+
+<p><strong>DOC2PEN</strong> transforms your neat, typed documents into charming handwritten masterpieces. It adds a personal touch by converting standard text into a style that mimics real handwriting—think of it as adding a splash of personality to your digital content without the ink stains!</p>
 
