@@ -15,4 +15,6 @@
 
 <p>Say goodbye to boring, uniform fonts and hello to the whimsical world of handwritten flair! 🎨✒️ Who knew your keyboard could become a time machine to the golden age of penmanship? Get ready to impress your friends and confuse your spellchecker—all with just a click!</p>
 
+<h2> ABOUT </h2>
+<p><strong>DOC2PEN:</strong> Turning your typed text into handwritten wonders—because your documents deserve a personal touch!</p>
 
